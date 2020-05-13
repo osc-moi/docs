@@ -1,6 +1,6 @@
-#Code of Conduct
+					CODE OF CONDUCT
 
-##Anti-harassment Policy
+	Anti-harassment Policy
 
 Harassment includes and is not limited to offensive or verbal written commments related to gender, age, 
 sexual orientation, disability,physical appearance, body size, race, religion, social class, economic status, 
@@ -21,7 +21,7 @@ action it deems appropriate, including warning the offender or expulsion from th
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact 
 OSC - Moi University using the procedures defined below.
 
-###Reporting Procedures
+		Reporting Procedures
 
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please reaport it immediately using one of the following methods. All reporters have the right to remain anonymous.
 
@@ -31,8 +31,8 @@ By sending information to the general reporting line, your report will go to any
 
 	Main Campus General Reporting - _______, ______
 
-
-###Special Incidents
+		
+		Special Incidents
 
 If you are comfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
 
