@@ -1,6 +1,24 @@
-					CODE OF CONDUCT
+# Open Source Club - Moi University's Code of Conduct
 
-	Anti-harassment Policy
+## Introduction
+
+This code of conduct applies to all members of this community and all new members are required to have read it.
+
+## Core Values
+
+*_Commitment_ : We are required to try our best to commit to the course of the community by fully taking part in our activities.
+
+*_Team Work_: Being the open source community we are required to collaborate and not compete with each other. This way we are more productive.
+
+*_Respect_: We are required to respect everyone who is a part of this community and all other persons invited to be a part of this community during our activities. Property belong to other people such as laptops, phones and bags must be respected.
+
+*_Honesty and Integrity_: We expect this to be observed in all dimensions. In dealing with others, performing tasks and handling responsibilities.
+
+## Decision Making
+
+We are a community and thus any decision made affects the whole community. Let it be made clear that decisions made by anyone in the community will only be applicable if approved by the executive board of the community. It will be against our code of conduct for a decision affecting the whole community to be made and implemented without consulting the leadership body.
+
+## Anti-harassment Policy
 
 Harassment includes and is not limited to offensive or verbal written commments related to gender, age, 
 sexual orientation, disability,physical appearance, body size, race, religion, social class, economic status, 
@@ -21,7 +39,7 @@ action it deems appropriate, including warning the offender or expulsion from th
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact 
 OSC - Moi University using the procedures defined below.
 
-		Reporting Procedures
+## Reporting Procedures
 
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please reaport it immediately using one of the following methods. All reporters have the right to remain anonymous.
 
@@ -31,8 +49,8 @@ By sending information to the general reporting line, your report will go to any
 
 	Main Campus General Reporting - _______, ______
 
-		
-		Special Incidents
+
+### Special Incidents
 
 If you are comfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
 
@@ -42,5 +60,8 @@ If you are comfortable reporting your situation to one or more of these people o
 
 	_________________________________________________
 
+## Conclusion
+
+It is your own obligation to make sure you have a clear understanding of our Code of Conduct. Any question about this Code of Conduct can be directed to any member of the leadership body.
 
 OSC - Moi University reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions reagarding these policies, please contact OSC - Moi University by email at _____
