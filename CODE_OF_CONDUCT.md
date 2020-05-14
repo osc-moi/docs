@@ -6,13 +6,21 @@ This code of conduct applies to all members of this community and all new member
 
 ## Core Values
 
-*_Commitment_ : We are required to try our best to commit to the course of the community by fully taking part in our activities.
+_Commitment_ 
 
-*_Team Work_: Being the open source community we are required to collaborate and not compete with each other. This way we are more productive.
+We are required to try our best to commit to the course of the community by fully taking part in our activities.
 
-*_Respect_: We are required to respect everyone who is a part of this community and all other persons invited to be a part of this community during our activities. Property belong to other people such as laptops, phones and bags must be respected.
+_Team Work_
 
-*_Honesty and Integrity_: We expect this to be observed in all dimensions. In dealing with others, performing tasks and handling responsibilities.
+Being the open source community we are required to collaborate and not compete with each other. This way we are more productive.
+
+_Respect_
+
+We are required to respect everyone who is a part of this community and all other persons invited to be a part of this community during our activities. Property belong to other people such as laptops, phones and bags must be respected.
+
+_Honesty and Integrity_
+
+We expect this to be observed in all dimensions. In dealing with others, performing tasks and handling responsibilities.
 
 ## Decision Making
 
