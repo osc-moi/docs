@@ -64,9 +64,11 @@ If you are comfortable reporting your situation to one or more of these people o
 
 	Osoro Bironga - +254 758080212, fanosoro@gmail.com
 	
-	_________________________________________________
+	Yasir Shariff - ______________, __________________
 
-	_________________________________________________
+	Ruth Jebet   - _______________, __________________
+	
+	Cyril Aguvasu - ________________, __________________
 
 ## Conclusion
 
