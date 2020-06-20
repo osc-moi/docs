@@ -62,9 +62,9 @@ By sending information to the general reporting line, your report will go to any
 
 If you are comfortable reporting your situation to one or more of these people or need to contact any of them directly in case of emergency, direct contact details are listed below.
 
-	Osoro Bironga - +254 758080212, fanosoro@gmail.com
+	Osoro Bironga - +254758080212, fanosoro@gmail.com
 	
-	Yasir Shariff - ______________, __________________
+	Yasir Shariff - +254791559129, goodwonder5@gmail.com
 
 	Ruth Jebet   - +254792862329, ruthjebet49@gmail.com
 	
