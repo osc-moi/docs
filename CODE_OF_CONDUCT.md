@@ -55,7 +55,7 @@ By sending information to the general reporting line, your report will go to any
 
 	West Campus General Reporting - _______, ______
 
-	Main Campus General Reporting - _______, ______
+	Main Campus General Reporting - +254707079904
 
 
 ### Special Incidents
